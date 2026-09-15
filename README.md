@@ -1,10 +1,10 @@
 <a href="https://github.com/GabrielTorres2">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=C0392B&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Torres;Dev+%26+T.I.+para+transportadoras;Python+%C2%B7+FastAPI+%C2%B7+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=C0392B&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Torres;DevLOG+%C2%B7+O+T.I.+para+a+sua+transportadora;Backend+e+Automa%C3%A7%C3%B5es" alt="Typing SVG" />
 </a>
 
 <img align="right" width="290" src="./killua.jpg" alt="Killua" />
 
-Sou fundador da **DevLOG** — *O T.I. das Transportadoras*, onde cuido de suporte, integrações e automação para operadores logísticos, lidando no dia a dia com TMS e documentos fiscais (CT-e, MDF-e, NF-e). Também desenvolvo sites pela **DevEassis** e estudo na **USCS**. Nas horas vagas faço produção técnica de podcasts, mexo com Linux e crio bots de Discord.
+Sou funcionário da **DevLOG** — *O T.I. para a sua transportadora*, onde cuido de suporte, integrações e automação para operadores logísticos, lidando no dia a dia com TMS e documentos fiscais (CT-e, MDF-e, NF-e). Também desenvolvo sites pela **DevEassis** e estudo na **USCS**. Nas horas vagas faço produção técnica de podcasts, mexo com Linux e crio bots de Discord.
 
 ### Conecte-se comigo!
 
@@ -14,7 +14,18 @@ Sou fundador da **DevLOG** — *O T.I. das Transportadoras*, onde cuido de supor
 
 ### Minha Stack
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,java,ts,js,html,css,mysql,linux,git" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" title="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git" />
+</p>
 
 <br clear="right" />
 
