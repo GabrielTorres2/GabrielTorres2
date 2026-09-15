@@ -42,4 +42,3 @@ Sou funcionário da **DevLOG** — *O T.I. para a sua transportadora*, onde cuid
   <img alt="cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/GabrielTorres2/GabrielTorres2/output/github-snake.svg" />
 </picture>
 
-<sub>Arte do Killua por Ero Kagy</sub>
